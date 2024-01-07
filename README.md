@@ -1,4 +1,4 @@
-# Welcome to My Data Analyst Portfolio#
+# Welcome to My Data Analyst Portfolio #
 
 Unlocking insights, driving decisions, and transforming raw data into meaningful narratives – this is the essence of my journey as a data analyst. As you navigate through this portfolio, you'll witness a collection of projects that showcase my proficiency in extracting valuable insights from complex datasets. Each project is a testament to my passion for leveraging data to solve real-world problems and drive informed decision-making.
 
