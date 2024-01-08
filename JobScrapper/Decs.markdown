@@ -43,6 +43,3 @@ unique and open-ended project.
 Best of luck!
 
 ------------------------------------------------------------------------
-
-*Project Details: \[Your Name\]*\
-*Data Analyst*
